@@ -1,4 +1,4 @@
-# 7Learnings DataScience Coding Challenge Solution
+# 7Learnings Data Science Coding Challenge Solution
 
 My solution for the data science coding challenge by 7Learnings under the following [link](https://github.com/7Learnings/code-challenges/blob/master/datascience/README.md).
 
