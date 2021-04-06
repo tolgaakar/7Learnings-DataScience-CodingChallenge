@@ -1,4 +1,4 @@
-# 7Learnings-DataScience-CodingChallenge
+# 7Learnings DataScience Coding Challenge Solution
 
 My solution for the data science coding challenge by 7Learnings.
 
